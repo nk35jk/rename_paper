@@ -2,10 +2,13 @@
 
 Rename pdf file name to the title of the paper.
 
-![demo](https://user-images.githubusercontent.com/30214093/56454505-a9fcd080-638c-11e9-8d2d-ebb8f93acc81.png)
+![demo](https://user-images.githubusercontent.com/30214093/56454634-b5e99200-638e-11e9-8846-c4d72f9c51f0.png)
 
-## Requirements
+## Installation
 
+### Requirements
+
+- macOS
 - Python 3
 - pdfminer3
 - lxml
@@ -15,22 +18,18 @@ pip install lxml
 pip install pdfminer3
 ```
 
-## Set up
-
 ```
+git clone https://github.com/nk35jk/rename_paper.git
+cd rename_paper
 cp rename_paper.py /usr/local/bin/rename_paper
 ```
 
-(optional) Make quick action with Automator
-```
-source ~/.zshrc
-for f in "$@"
-do
-	${HOME}/.pyenv/shims/python /usr/local/bin/rename_paper "$f"
-done
-```
+(optional) Automator
 
-## How to Use
+## Usage
 
+### GUI
+Select pdf files in Finder and press `command + R` to rename them. 
 
+### Command line
 `python rename_paper.py /path/to/pdf_file`
