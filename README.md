@@ -10,6 +10,7 @@ Rename pdf file name to the title of a paper.
 - Python 3
 - pdfminer3
 - lxml
+- NumPy
 
 ## Installation
 
@@ -18,6 +19,7 @@ Rename pdf file name to the title of a paper.
 ```
 pip install lxml
 pip install pdfminer3
+pip install numpy
 ```
 
 2. Clone this repository and install a command.
