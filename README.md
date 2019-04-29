@@ -34,7 +34,7 @@ Open "Rename Paper.workflow" with "Automator.app" and install the "Rename Paper"
 
 4. Set a keyboard shortcut.
 
-Open "System Preferences.app" and move to `Keyboard -> Shortcuts -> App Shortcuts`. Then, press "+" button to add a keyboard shortcut. Choose "Finder.app" for "Application" field, "Rename Paper" for "Menu Title" field and your favorite keyboard shortcut.
+Open "System Preferences.app" and move to `Keyboard -> Shortcuts -> App Shortcuts`. Then, press "+" button to add a keyboard shortcut. Choose "Finder.app" for "Application" field, "Rename Paper" for "Menu Title" field and your favorite keyboard shortcut (command + R is recommended).
 
 ## Usage
 
