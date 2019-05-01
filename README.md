@@ -1,6 +1,6 @@
 # Rename Paper
 
-Rename pdf file name to the title of a paper.
+Rename pdf file name to the title of a paper. It's easy to find a paper with Spotlight search or related applications (like Alfred) using with its title.
 
 ![demo](https://user-images.githubusercontent.com/30214093/56454634-b5e99200-638e-11e9-8846-c4d72f9c51f0.png)
 
